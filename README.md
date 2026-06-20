@@ -25,7 +25,7 @@ javac Main.java GestorJuego.Java
 
 ### Ejecutar
 
-java Main
+java Main.java
 
 ## Autor
 
