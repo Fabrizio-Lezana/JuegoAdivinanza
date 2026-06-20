@@ -17,10 +17,11 @@ Aplicación de consola desarrollada en Java que permite al usuario jugar a adivi
 - Validaciones de entrada de datos.
 
 ## Cómo ejecutar
-
+en ..\\src\juegoAdivinanza
+abrir una terminal
 ### Compilar el programa
 
-javac Main.java
+javac Main.java GestorJuego.Java
 
 ### Ejecutar
 
