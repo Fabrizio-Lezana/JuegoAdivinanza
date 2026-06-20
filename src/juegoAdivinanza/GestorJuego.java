@@ -29,6 +29,11 @@ public class GestorJuego {
 			if (teclado.hasNextInt()) {
 				numero = teclado.nextInt();
 				teclado.nextLine();
+				// Validar que ingrese numeros entre 1 y 100
+				while (numero < 1 || numero > 100) {
+					System.out.print("Ingrese un número entre 1 y 100: ");
+					numero = teclado.nextInt();
+				}
 				intentos++;
 
 				if (numero == numeroSecreto) {
