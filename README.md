@@ -15,9 +15,10 @@ La aplicación se centra en un breve juego de adivinaza de un número aleatorio 
  - No contiene interfáz gráfica.
 
 ## Estructura del Proyecto
-  -Clase Main: esta clase permite interactuar con el usuario a través de un menú de opciones.
-  -Clase GestorJuego: contiene las funcionalidades principales para llevar a cabo el juego de adivinanza de un número aleatorio.
 
+- Clase Main: permite interactuar con el usuario a través de un menú de opciones.
+- Clase GestorJuego: contiene las funcionalidades principales para llevar a cabo el juego de adivinanza de un número aleatorio.
+  
 ## Características implementadas
 
 - Menú de opciones.
